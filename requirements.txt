@@ -2,7 +2,6 @@ streamlit
 streamlit-webrtc
 ultralytics
 av
-cv2
 opencv-python-headless
 tensorflow-cpu
 numpy
