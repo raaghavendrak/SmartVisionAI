@@ -1,2 +1,2 @@
-libpcre2-dev
-libglib2.0-0
+libglib2.0-dev
+libffi-dev
