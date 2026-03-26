@@ -1,2 +1,2 @@
-libglib2.0-dev
-libffi-dev
+libgl1
+libglib2.0-0
